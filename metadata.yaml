@@ -1,0 +1,46 @@
+_repo: Poems-of-Cheer_3238
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3238/3238-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Wilcox, Ella Wheeler
+    alias: Wheeler, Ella
+    birthdate: 1850
+    deathdate: 1919
+    gutenberg_agent_id: '1138'
+    url: http://www.gutenberg.org/2009/agents/1138
+    wikipedia: http://en.wikipedia.org/wiki/Ella_Wheeler_Wilcox
+description: ''
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+tableOfContents: Worth while -- The house of life -- A song of life -- Prayer -- In
+  the long run -- As you go through life -- Two sunsets -- Unrest -- Artist's life
+  -- Nothing but stones -- Inevitable -- The ocean of song -- "It might have been"
+  -- Momus, god of laughter -- I dream -- The sonnet -- The past -- A dream -- Uselessness
+  -- Will -- Winter rain -- Life -- Burdened -- Let them go -- Five kisses -- Retrospection
+  -- Helena -- Nothing remains -- Comrades -- What gain? -- To the west -- The land
+  of content -- Warning -- After the battles are over -- And they are dumb -- Night
+  -- All for me -- Into space -- Through dim eyes -- The punished -- Half fledged
+  -- The year -- The unattained -- In the crowd -- Life and i -- Guerdon -- Snowed
+  under -- "Leudemanns-on-the-River" -- Little Blue Hood -- No spring -- Midsummer
+  -- A reminiscence -- A girl's faith -- Two -- Slipping away -- Is it done? -- A
+  leaf -- Aesthetic -- Poems of the week -- Ghosts -- Fleeing away -- All mad -- Hidden
+  gems -- By-and-bye -- Over the May hill -- Foes -- Friendship -- Two sat down --
+  Bound and free -- Aquileia -- Wishes for a little girl -- Romney -- My home -- To
+  marry or not to marry? -- An afternoon -- River and sea -- What happens? -- Possession.
+title: Poems of Cheer
+url: http://www.gutenberg.org/ebooks/3238
