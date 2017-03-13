@@ -1,10 +1,8 @@
 _repo: Poems-of-Cheer_3238
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 3238/3238-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3238-h/images/coverb.jpg
 creator:
   author:
     agent_name: Wilcox, Ella Wheeler
@@ -15,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1138
     wikipedia: http://en.wikipedia.org/wiki/Ella_Wheeler_Wilcox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3238#Poems-of-Cheer
 gutenberg_issued: '2002-05-01'
 gutenberg_type: Text
 identifiers:
